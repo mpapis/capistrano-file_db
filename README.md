@@ -1,6 +1,7 @@
 # Simle capistrano plugin to manage database files
 
 Extracted it to not repeat myself next time I need to use sqlite db on server.
+At first I wanted to name it "capistrano-sqlite3" but it could be used for any files, not only sqlite3 databases.
 
 ## Installation
 

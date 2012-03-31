@@ -6,7 +6,7 @@ At first I wanted to name it "capistrano-sqlite3" but it could be used for any f
 ## Installation
 
 ```bash
-gem install capistrano-unicorn
+gem install capistrano-file_db
 ```
 
 ## Usage

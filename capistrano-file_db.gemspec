@@ -1,7 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name = 'capistrano-file_db'
-  gem.version = '0.1.0'
-  gem.date = "2012-03-11"
+  gem.version = '1.0.0'
   gem.authors = ["Michal Papis"]
   gem.email = "mpapis@gmail.com"
   gem.homepage = 'https://github.com/mpapis/capistrano-file_db'

@@ -28,7 +28,7 @@ class CapistranoFileDB
       end
 
       after 'deploy:finalize_update', 'file_db:symlink_db'
-      after 'db:migrate',             'file_db:chmod_db'
+      after 'deploy:migrate',         'file_db:chmod_db'
     end
   end
 end

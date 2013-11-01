@@ -3,6 +3,7 @@ Gem::Specification.new do |gem|
   gem.version = '1.0.0'
   gem.authors = ["Michal Papis"]
   gem.email = "mpapis@gmail.com"
+  gem.license = 'Apache 2.0'
   gem.homepage = 'https://github.com/mpapis/capistrano-file_db'
   gem.summary = "Sqlite3 integration for Capistrano"
   gem.description = "Capistrano plugin that easies handling database files on production."
